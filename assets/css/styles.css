@@ -316,7 +316,7 @@ footer{border-top:1px solid rgba(18,20,23,.08);background:rgba(255,255,255,.55);
     grid-template-columns:1fr 1fr;
     grid-template-rows:220px 220px 220px;
   }
-  .g-item.big{grid-row:auto;grid-column:1/-1;min-height:260px}
+  .g-item.big{grid-column:1/-1;min-height:260px}
   .cta{grid-template-columns:1fr}
   .footer{grid-template-columns:1fr}
   .specs{grid-template-columns:1fr}
